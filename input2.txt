@@ -1,0 +1,25 @@
+11
+add pasta to water
+bake bread
+boil water
+eat
+heat sauce
+pour beverage
+pour sauce over pasta
+preheat oven
+serve bread
+serve pasta
+set table
+12
+add pasta to water,serve pasta
+bake bread,serve bread
+boil water,add pasta to water
+heat sauce,pour sauce over pasta
+pour beverage,eat
+pour sauce over pasta,eat
+preheat oven,bake bread
+serve bread,eat
+serve pasta,pour sauce over pasta
+set table,serve bread
+set table,pour beverage
+set table,serve pasta
